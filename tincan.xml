@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Grundlagen Robotic Process Automation</name>
+      <description lang="en-US">Sich wiederholende Aufgaben am PC nerven dich oder deine Kollegen? Musst du oder dein Team regelm&amp;auml;&amp;szlig;ig manuell Daten von einem System in ein anderes &amp;uuml;bertragen? Mithilfe von Robotic Process Automation werden diese Art von Aufgaben von Robots ausgef&amp;uuml;hrt werden. Ihr k&amp;ouml;nnt euch somit endlich auf sinnvolle, kreative oder emotionale Aufgaben fokussieren. Der Kurs RPA f&amp;uuml;r Einsteiger richtet sich an alle, die sich mit dem Thema RPA besch&amp;auml;ftigen wollen und erste Grundkenntnisse in der Praxis anwenden wollen.&amp;nbsp;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Du lernst, was Robotic Process automation ist und wie es dir und deinem Unternehmen helfen kann effizienter zu sein.&lt;/li&gt;&lt;li&gt;Wir geben dir einen &amp;uuml;berblick &amp;uuml;ber state of the Art Tools und die aktuelle Marktsituation f&amp;uuml;r RPA&lt;/li&gt;&lt;li&gt;Du lernst wie Profis ein RPA Projekt in Unternehmen implementieren und welche Rollen es in solchen Projekten gibt&lt;/li&gt;&lt;li&gt;Schlie&amp;szlig;lich wirst du deine erste eigene Automatisierung umsetzen und feststellen, dass es leichter ist als du dachtest.&lt;/li&gt;&lt;/ul&gt;Jedes Modul endet mit einer Zusammenfassung und einem Wissenscheck. Insgesamt ben&amp;ouml;tigst du inklusive Praxisprojekt circa 8 Stunden, um den Kurs zu absolvieren.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/1lbfzThNpTLR4PnzTxb-sBz12EX5cGRv" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Wilkommen zum Kurs/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/xkJ1Df8q3dOyieS0EyTjNlQO4Prn3Fnu" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Einführung/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/BGB6b_VByHcU2HkoSk-OtmeRmmo6Dua5" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Vorstellung der Textilio GmbH/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/J-9GaYrFFpikPcKod6dIlukdTecTfGA4" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">RPA Grundlagen/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/tDLXlgh9KRMlGYfPgIXe8g2eBzB_jm8A" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Was ist RPA?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/DfEIFbBCr6QFU0pqpOjMxxAdHH_xYZOS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Attended vs. unattended robots/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/9-GchOIaSoHoX_WJbxrCOCMUyZsDceeD" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">RPA vs. Künstliche Intelligenz/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/zys_TUX0dDjZ87T5lnZmuDh93OfwIk2D" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">RPA vs. Process Mining/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/mv3QJIy7AjkjDQSRVcjwYo7nCsK7TXtY" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Das RPA Mindset/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/O63pPQoHnQEglr2zzaqJu4B1vCuoAgbW" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Beispiel für einen einfachen Robot/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/kQtcNiCFfytyr2c9A4f23GGYAafs0Rqd" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">RPA in der Praxis/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/m4koKAHWwtX78urpQS9NhAraLimWpDt-" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Kriterien für die Anwendung von RPA/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/bXFbBKR6ua-yB-3I4FMIKmGvsQMcp_-f" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Ein Praxisbeispiel aus der Textilio GmbH/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/vvJdQpYc4z82YSR4jJjj27f49wBOOJF5" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Dinge, die du nicht automatisieren solltest/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/opVzaN5LOAGqMO304wFNE9lliGCUAQcw" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Ein RPA Projekt implementieren/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/Zt1TUfc1Q4Jnkoabksm5_4lkDDoDuzC7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Die Rollen im RPA Prozess/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/lP1gSFVWRYeXyyuPNDdECgm_s4EylQWp" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Übersicht der Projektphasen/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/-5cBFAB0n2QI5hGSHkqpSgRjLKjWIKHT" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Der RPA Markt/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/f99cvaWwWMale4sfD-zdPd5yF3RjzlGJ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Ein Überblick/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/LHFsnJWTPgjU8keEVoNFxdR6o7P08pQK" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">RPA in der Praxis erkennen/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/USAJbCH5CXLWiT45hd26lAlpxYuQUhkY" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Auswahlmatrix - wie gut eignet sich der Prozess zur Automatisierung/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/qRMX7j2XnOHxPXijW6Dj5ioWHt7XIQLM" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Process Design Document - gut dokumentiert ist halb automatisiert/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/6VBk_tv3FYI91Mzd-ayJXeMFKyDwraBz" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Umsetzung deines eigenen Projekts/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/LznqTHUbueVAN5-9qSfPRf1VA0cPbqN_" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">UiPath Installation/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/2fERc7QqpfNOsfRlXzZ_kJ6JJDIl9KCp" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Ein Projekt umsetzen/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/S89iXutPjOov_KKNidOY0b0L4flwWVB1" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Ein Projekt umsetzen (Lösung)/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/7WwLcUFj5Hg0bXttNjy_OH_CROHvfoOI" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Der Bot in Action/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/mCqk0C_3c4so2nPmhqxzzhZpXKz9401s" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Nächste Schritte/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0Z8GIOAjr7PvgEYfDHsu0iofh9v3naeG_rise/QDxSn2-sQXVQJgq-3X95fTaVtgbn99gc" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Zusammenfassung/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>

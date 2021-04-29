@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<manifest identifier="AZ8GIOAjr7PvgEYfDHsu0iofh9v3naeGLdM3JNj2" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Grundlagen Robotic Process Automation</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Grundlagen Robotic Process Automation</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/RobotoSlab-Light.woff" />
+<file href="scormcontent/lib/fonts/RobotoSlab-Regular.woff" />
+<file href="scormcontent/lib/fonts/RobotoSlab-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/assets/TvjvX7gP6vO_-quR_small.png" />
+<file href="scormcontent/assets/Lpo0dKbGwdMhU2IQ__OD10x8_vHv6y7QM.png" />
+<file href="scormcontent/assets/RgVWlD9AZuYvx7pw_transcoded-hl_vyD7OO9qF5KBz-Willkommen%20zum%20Kurs%20%281%29-00001.png" />
+<file href="scormcontent/assets/5ZsaPRt4WnV6UzL-_transcoded-hl_vyD7OO9qF5KBz-Willkommen%20zum%20Kurs%20%281%29.mp4" />
+<file href="scormcontent/assets/3IBO-TuWublVassc_LFPGtACz1zwIJAjL.svg" />
+<file href="scormcontent/assets/y_R1OTaPFeSfqQCd_transcoded-fyrU3Hjx42iwHsaU-Textilio%20GmbH-00001.png" />
+<file href="scormcontent/assets/9ddv3cyQfccARSMF_transcoded-fyrU3Hjx42iwHsaU-Textilio%20GmbH.mp4" />
+<file href="scormcontent/assets/Jokus0UC-fBf5WUo_transcoded-OO3tuwqQFU6x0d9W-Was%20ist%20RPA-00001.png" />
+<file href="scormcontent/assets/RRSh7ZvLbFlA77Ip_transcoded-OO3tuwqQFU6x0d9W-Was%20ist%20RPA.mp4" />
+<file href="scormcontent/assets/uiQRbEHAHDkN3qU9_transcoded-rmTTzXInURC48YZw-AttendedvsUnattended%20Robot-00001.png" />
+<file href="scormcontent/assets/rlgh1euMmEhWIFsw_transcoded-rmTTzXInURC48YZw-AttendedvsUnattended%20Robot.mp4" />
+<file href="scormcontent/assets/YgM3G5gdlunrxR6P_transcoded-CqofRzTW2IcoILwz-RPA%20KI-00001.png" />
+<file href="scormcontent/assets/3fY1nhNnsrUR7znd_transcoded-CqofRzTW2IcoILwz-RPA%20KI.mp4" />
+<file href="scormcontent/assets/cDObSoQQmJkRitx6_transcoded--dPnJ_OLBJ_-ovmX-RPA%20Process%20Mining-00001.png" />
+<file href="scormcontent/assets/FBL35YnXwxT1_Lr0_transcoded--dPnJ_OLBJ_-ovmX-RPA%20Process%20Mining.mp4" />
+<file href="scormcontent/assets/tjdnEhY7AEa1_Qix_transcoded-bTM5oN9olqIxLlon-Mindset_finalfinal-00001.png" />
+<file href="scormcontent/assets/HrN1c2xQ7kQVQrTN_transcoded-bTM5oN9olqIxLlon-Mindset_finalfinal.mp4" />
+<file href="scormcontent/assets/SnXBLwwzDaBIq4Jx_transcoded-rG_btGXim-5YqxFg-HelloWorldBot-00001.png" />
+<file href="scormcontent/assets/6jxTRDI4FKbdahGC_transcoded-rG_btGXim-5YqxFg-HelloWorldBot.mp4" />
+<file href="scormcontent/assets/Qsl46uAewe9k-eA1_cq9EMTrtM5-AkJ89-HelloWorldBot_Projektdateien.zip" />
+<file href="scormcontent/assets/PuXc2ZAHKk-tRgw2_transcoded-hOQGHYQIwZLG4u9I-Kriterien%20zur%20Anwendung%20von%20RPA-00001.png" />
+<file href="scormcontent/assets/_eQrQ0WG00SMj2CL_transcoded-hOQGHYQIwZLG4u9I-Kriterien%20zur%20Anwendung%20von%20RPA.mp4" />
+<file href="scormcontent/assets/2VYRsFWJZP5pNpE6_transcoded-NeNRB30GR78UaG4S-Prozessbeispiel_final-00001.png" />
+<file href="scormcontent/assets/KqwlIGLEbmL2WPlr_transcoded-NeNRB30GR78UaG4S-Prozessbeispiel_final.mp4" />
+<file href="scormcontent/assets/LUgniZdhCv9V29Wa_transcoded--1l__qds2pdHC3se-Dinge%20die%20du%20nicht%20automatisieren%20solltest-00001.png" />
+<file href="scormcontent/assets/dvdTopbIDu-oi2_f_transcoded--1l__qds2pdHC3se-Dinge%20die%20du%20nicht%20automatisieren%20solltest.mp4" />
+<file href="scormcontent/assets/ylNhWX-NDVHPtGxV_transcoded-UIpU7QLkfYnbWh6U-Die%20Rollen%20in%20einem%20RPA%20Projekt-00001.png" />
+<file href="scormcontent/assets/SfjEX-0sX7z3pLWM_transcoded-UIpU7QLkfYnbWh6U-Die%20Rollen%20in%20einem%20RPA%20Projekt.mp4" />
+<file href="scormcontent/assets/AkxFqg69WfGdghdx_mountains.jpg" />
+<file href="scormcontent/assets/khCBSfgCnar1x59N_transcoded-TvmIXPEioSZRFeT3-Projektphasen-00001.png" />
+<file href="scormcontent/assets/w5kCIkp-wmQHbd6s_transcoded-TvmIXPEioSZRFeT3-Projektphasen.mp4" />
+<file href="scormcontent/assets/terY48AdvBewwDNC_transcoded-I5qUhhiKtGVF0s2o-Die%20Player%20im%20Markt-00001.png" />
+<file href="scormcontent/assets/Jg_FXP_GisPHbXi4_transcoded-I5qUhhiKtGVF0s2o-Die%20Player%20im%20Markt.mp4" />
+<file href="scormcontent/assets/RXbd_r59V6A0D5Jf_transcoded-dkctFlkpIMmLQ_Kj-Intro_Auswahlmatrix-00001.png" />
+<file href="scormcontent/assets/ET6a-BwN1hOdpn4b_transcoded-dkctFlkpIMmLQ_Kj-Intro_Auswahlmatrix.mp4" />
+<file href="scormcontent/assets/tOKhsveivNemm66w_MWICKCBsseR8y3QI-Auswahlmatrix.xlsx" />
+<file href="scormcontent/assets/PNquxx1KyzOcTT_V_transcoded-ruzkC0iA6l3_Bzba-Auswahlmatrix-00001.png" />
+<file href="scormcontent/assets/xNeikrX5h6WxEeaU_transcoded-ruzkC0iA6l3_Bzba-Auswahlmatrix.mp4" />
+<file href="scormcontent/assets/ixaYJQoq1j1ahB9Y_B8LTdSPCyq4QHFY0-Auswahlmatrix_Boris%20Botmeister.xlsx" />
+<file href="scormcontent/assets/3yPSiFoJpbIW61UK_transcoded-2R--XLaq9f2nl1qF-Outro_Auswahlmatrix-00001.png" />
+<file href="scormcontent/assets/bzgxJB4umQkBMUbi_transcoded-2R--XLaq9f2nl1qF-Outro_Auswahlmatrix.mp4" />
+<file href="scormcontent/assets/F-VVM19WcNSpO-dE_transcoded-Te9sruK-5vTpbffX-Intro_PDD-00001.png" />
+<file href="scormcontent/assets/vB851Tps_v0J94iy_transcoded-Te9sruK-5vTpbffX-Intro_PDD.mp4" />
+<file href="scormcontent/assets/WWZl28Ttn_bHtFo0_ZHh_gPeq5kAJ36EU-Einfaches%20PDD.docx" />
+<file href="scormcontent/assets/CKw62OyeJ2ySMkS9_transcoded-TWpvZxIM2dOy4R3n-PDD-00001.png" />
+<file href="scormcontent/assets/5ZhHk6Tq6yU2Q_LI_transcoded-TWpvZxIM2dOy4R3n-PDD.mp4" />
+<file href="scormcontent/assets/QiyAgGdYJkkuSFiA_iqqYxWbaTSYUdazW-Einfaches%20PDD_Boris%20Botmeister.docx" />
+<file href="scormcontent/assets/iJXhhQ4YON3d2bjS_transcoded-6NbFAsXxXnMS7RFD-Outro_PDD-00001.png" />
+<file href="scormcontent/assets/O_B6t8LrzI6115-i_transcoded-6NbFAsXxXnMS7RFD-Outro_PDD.mp4" />
+<file href="scormcontent/assets/lRwSZhNJT2uAqwQo_transcoded-cJDUF5Ial5YPQuZl-Installation%20von%20UiPath%20Studio-00001.png" />
+<file href="scormcontent/assets/XRlV7Lcf05UPIPGY_transcoded-cJDUF5Ial5YPQuZl-Installation%20von%20UiPath%20Studio.mp4" />
+<file href="scormcontent/assets/8CQvzD-TcDBe5yhP_transcoded-S7_qBoB4ddRvbii5-Praxisprojekt-00001.png" />
+<file href="scormcontent/assets/L227nGHjdAl1OvEE_transcoded-S7_qBoB4ddRvbii5-Praxisprojekt.mp4" />
+<file href="scormcontent/assets/5HuUV9qeXLfAmjz6_UVdXCQmerf6kC-H4-Erster%20Bot_Projektdateien.zip" />
+<file href="scormcontent/assets/p_lAF85l9NropWbd_transcoded-stc1BYKm9zxnSck6-Boris%20Botmeister%20Bot%20in%20Action-00001.png" />
+<file href="scormcontent/assets/R2nBtHMY2WsiT1cr_transcoded-stc1BYKm9zxnSck6-Boris%20Botmeister%20Bot%20in%20Action.mp4" />
+<file href="scormcontent/assets/VsZAd76rYHY5CvTS_V0aueyIGBA9VP7pj.svg" />
+<file href="scormcontent/assets/7L_sM2r5RZXK4UIp_FmYybQWr28s4OPl6.svg" />
+
+    </resource>
+  </resources>
+</manifest>
